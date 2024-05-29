@@ -230,6 +230,7 @@ footer p {
   }
 }
 
+/* Medium screen*/
 @media (max-width: 768px) {
   .container {
     padding: 0 10px;
@@ -260,6 +261,7 @@ footer p {
   }
 }
 
+/*Small screen*/
 @media (max-width: 480px) {
   .avatar {
     width: 150px;

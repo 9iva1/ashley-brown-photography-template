@@ -2,7 +2,7 @@ Photography Portfolio Template
 
 ![Alt text](assets/img.png)
 
-Welcome to the Photography Portfolio Template! This template is designed to help photographers, artists, and creatives showcase their work in a stunning and professional manner. Whether you're a professional photographer or an aspiring artist, this template provides you with the tools you need to create an impressive online portfolio.
+ This template is designed to help photographers, artists, and creatives showcase their work in a stunning and professional manner. Whether you're a professional photographer or an aspiring artist, this template provides you with the tools you need to create an impressive online portfolio.
 
 Features
 
