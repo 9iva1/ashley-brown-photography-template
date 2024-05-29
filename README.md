@@ -26,7 +26,7 @@ Ready to personalize? Our template allows for easy customization to reflect your
 
 Getting Started
 Purchase the Template: 
-Send an email to 9iva@gmail.com with a confirmation of your purchase from our website.
+Send an email to 9ivaone@gmail.com with a confirmation of your purchase from our website.
 
 Provide Necessary Details: 
 Include a new email address that will be associated with your website, along with a password for us to create a GitHub account and transfer the template files to you.
@@ -42,4 +42,4 @@ After setting up your hosting and domain, forward us an email containing all the
 
 Support!
 
-If you have any questions, issues, or need assistance with customization, feel free to contact us at 9iva@gmail.com. We're here to help you make the most out of your photography portfolio!
+If you have any questions, issues, or need assistance with customization, feel free to contact us at 9ivaone@gmail.com. We're here to help you make the most out of your photography portfolio!
