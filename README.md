@@ -26,21 +26,21 @@ Ready to personalize? Our template allows for easy customization to reflect your
 
 Getting Started
 
-Purchase the Template: 
-
-Send an email to 9ivaone@gmail.com with a confirmation of your purchase from our website.
-
-Provide Necessary Details: 
-Include a new email address that will be associated with your website, along with a password for us to create a GitHub account and transfer the template files to you.
+Download the Template
 
 Customize Your Template: 
+
 Once you've received the template, customize it to suit your brand. Need assistance? We offer customization services for a fee of $30.
 
 Host Your Website: 
-Choose your preferred hosting platform, such as Hostinger, Vercel, or Netlify, and register your domain.
 
+Choose your preferred hosting platform, such as Hostinger, Vercel, or Netlify, and register your domain.
 Complete Customization: 
-After setting up your hosting and domain, forward us an email containing all the necessary information for successful customization.
+
+After setting up your hosting and domain, deploy your website and share it with the world.
+
+Transform your digital presence today and let your creativity shine!
+
 
 Support!
 
