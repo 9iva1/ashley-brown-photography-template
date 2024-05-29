@@ -25,7 +25,9 @@ Customization Ready:
 Ready to personalize? Our template allows for easy customization to reflect your unique style and branding.
 
 Getting Started
+
 Purchase the Template: 
+
 Send an email to 9ivaone@gmail.com with a confirmation of your purchase from our website.
 
 Provide Necessary Details: 
